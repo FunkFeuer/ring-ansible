@@ -289,6 +289,10 @@ lg_peers:
     asn: 56393
     ipv4: 185.1.203.253
     ipv6: 2001:7f8:10f::dc49:253
+  FUNKFEUER:
+    asn: 35492
+    ipv4: 78.41.115.37
+    ipv6: 2a02:60:35:492:1:ffff:0:2
   FUSIONED_ATH1:
     asn: 51392
     ipv4: 185.157.208.1
